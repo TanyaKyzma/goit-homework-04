@@ -356,6 +356,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: var(--c-text);
 text-align: center;
+margin-bottom: 8px;
 }
 
 .social-team{
@@ -405,7 +406,7 @@ padding: 120px 0 120px 0;}
 
 .item-portfolio{
   width: calc((100% - 48px) / 3);
-
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .item-portfolio:hover{
