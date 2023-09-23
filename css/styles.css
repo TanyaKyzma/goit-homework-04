@@ -84,7 +84,7 @@ box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.1
     align-items: center;
     font-family: "Raleway", sans-serif ;
     text-transform: uppercase;
-    color:var(--c-state);
+    color:var(--c-brand);
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -393,8 +393,8 @@ margin-bottom: 8px;
 background-color: var(--bg-pressed-state) 
 }
   
-.socials-link-footer .icon-team{
-        fill: var(--c-white);
+.icon-team{
+        fill: var(--c-light);
         width: 24px;
         height: 24px;
     }
